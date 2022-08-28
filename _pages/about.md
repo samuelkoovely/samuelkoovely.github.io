@@ -2,7 +2,7 @@
 layout: about
 title: Home
 permalink: /
-subtitle: Contact: samuel.koovely(at)math.uzh.ch
+subtitle: <a href='#'></a>Contact: samuel.koovely(at)math.uzh.ch
 
 profile:
   align: right
