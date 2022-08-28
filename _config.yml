@@ -2,12 +2,12 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: blank # the website title (if blank, full name will be used instead)
-first_name: Samuel
+title: Personal Page of Samuel Koovely # the website title (if blank, full name will be used instead)
+first_name: Samuel Koovely
 middle_name: 
-last_name: Koovely
+last_name: 
 email: samuel.koovely@math.uzh.ch
-description: The personal web page of Samuel Koovely
+description: The personal page of Samuel Koovely
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
@@ -66,9 +66,9 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: # your GitHub user name
+github_username: samuelkoovely
 gitlab_username: # your GitLab user name
-twitter_username: # your Twitter handle
+twitter_username: @SamuelKoovely
 linkedin_username: # your LinkedIn user name
 scholar_userid: # your Google Scholar ID
 orcid_id: # your ORCID ID
@@ -100,9 +100,9 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: al-folio # blog_name will be displayed in your blog page
-blog_nav_title: blog # your blog must have a title for it to be displayed in the nav bar
-blog_description: a simple whitespace theme for academics
+blog_name: Aftermath # blog_name will be displayed in your blog page
+blog_nav_title: Blog # your blog must have a title for it to be displayed in the nav bar
+blog_description: My personal blog
 permalink: /blog/:year/:title/
 
 # Pagination
