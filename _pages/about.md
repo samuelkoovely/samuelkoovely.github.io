@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. My email: samuel.koovely(at)math.uzh.ch .
+subtitle: <a href='#'>Affiliations</a>. samuel.koovely(at)math.uzh.ch .
 
 profile:
   align: right
