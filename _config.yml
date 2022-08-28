@@ -2,10 +2,10 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: # the website title (if blank, full name will be used instead)
-first_name: Samuel Koovely
+title: Samuel Koovely # the website title (if blank, full name will be used instead)
+first_name: Samuel
 middle_name: #
-last_name: #
+last_name: Koovely
 email: samuel.koovely@math.uzh.ch
 description: The personal web page of Samuel Koovely
 footer_text: >
