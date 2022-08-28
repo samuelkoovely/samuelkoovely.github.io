@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: Home
 permalink: /
 subtitle: <a href='#'>Affiliations</a>. samuel.koovely(at)math.uzh.ch .
 
@@ -14,10 +14,10 @@ profile:
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+social: false  # includes social icons at the bottom of the page
 ---
 
-I am doctoral student at the Institue of Mathematics of the University of Zurich.
+I am doctoral student in the group of Alexandre Bovet at the Institue of Mathematics of the University of Zurich. I am interested in topics in topics at the intersection of probability theory and statistics, in particular Markov processes.
 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
