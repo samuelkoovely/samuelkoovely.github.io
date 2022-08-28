@@ -2,14 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. samuel.koovely(at)math.uzh.ch .
+subtitle: <a href='https://www.math.uzh.ch/index.php?id=people&key1=33328&L=1'>Affiliations</a>. My email: samuel.koovely(at)math.uzh.ch .
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: true # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
   address: >
-    <p>Building/Office:: Y27/G25</p>
+    <p>Building/Office: Y27/G25</p>
     <p>Winterthurerstrasse 190</p>
     <p>City: Zurich, Switzerland</p>
 
