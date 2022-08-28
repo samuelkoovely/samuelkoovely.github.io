@@ -7,16 +7,17 @@ subtitle: <a href='#'>Affiliations</a>. samuel.koovely(at)math.uzh.ch .
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   address: >
     <p>Building/Office: Y27/G25</p>
-    <p>Winterthurerstrasse 190</p>
-    <p>City: Zurich, Switzerland</p>
+    <p>Winterthurerstrasse 190, 8057 Zurich, Switzerland</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
+
+I am doctoral student at the Institue of Mathematics of the University of Zurich.
 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
