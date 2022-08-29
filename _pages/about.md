@@ -17,7 +17,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a doctoral student in the group of Prof. Dr. Alexandre Bovet, at the Institute of Mathematics of the University of Zurich (see <a href="https://www.math.uzh.ch/index.php?id=people&key1=33328&L=1">here:</a>).
+I am a doctoral student in the group of Prof. Dr. Alexandre Bovet, at the Institute of Mathematics of the University of Zurich (see <a href="https://www.math.uzh.ch/index.php?id=people&key1=33328&L=1">here</a>).
 I am interested in topics at the intersection of probability theory and statistics; in particular Markov processes, graphical models, and causal inference.
 I study how this topics interact with each other and their applications to complex syestems.
 
