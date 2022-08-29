@@ -8,9 +8,9 @@ nav_order: 5
 ---
 
 ### Teaching Assistant:
-* Fall Semseter 2022: Teaching Assistant of the course Complex Networks and Applications, University of Zurich
-* Fall Semester 2019: Teaching Assistant of the course Mathematik IV, ETH Zurich
-* Fall Semester 2018: Teaching Assistant of the course Stochastic, ETH Zurich
-* Spring Semester 2018: Teaching Assistant of the course Probability and Statstics, ETH Zurich
+* Fall Semseter 2022: Teaching Assistant of the course Complex Networks and Applications, University of Zurich (english)
+* Fall Semester 2019: Teaching Assistant of the course Mathematik IV, ETH Zurich (german)
+* Fall Semester 2018: Teaching Assistant of the course Stochastic, ETH Zurich (german)
+* Spring Semester 2018: Teaching Assistant of the course Probability and Statstics, ETH Zurich (english)
 
-### Thesis Supervisor:
+### Theses Supervision:
