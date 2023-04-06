@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 3
+title: Community Detection in Temporal Networks
 description: a project that redirects to another website
 img: assets/img/7.jpg
 redirect: https://unsplash.com
-importance: 3
+importance: 1
 category: work
 ---
 

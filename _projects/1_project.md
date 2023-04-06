@@ -1,9 +1,9 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
+title: COMIC-TREE
+description: MSc Thesis project
 img: assets/img/12.jpg
-importance: 1
+importance: 10
 category: work
 ---
 
