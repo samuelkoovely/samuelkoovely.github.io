@@ -1,10 +1,10 @@
 ---
 layout: page
-title: COMIC-TREE
-description: MSc Thesis project
-img: assets/img/12.jpg
-importance: 10
-category: work
+title: Musical Scales
+description: Exploring mathematical aspects about musical scales.
+img:
+importance: 4
+category: fun
 ---
 
 Every project has a beautiful feature showcase page.

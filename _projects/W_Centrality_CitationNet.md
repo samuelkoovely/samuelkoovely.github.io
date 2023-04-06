@@ -1,9 +1,9 @@
 ---
 layout: page
-title: project 2
-description: COMIC-TREE Model
-img: assets/img/3.jpg
-importance: 3
+title: Centrality Citation Network
+description: Redifine measure of impact of authors. 
+img:
+importance: 4
 category: work
 ---
 

@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 4
-description: Musical Scales
-img:
-importance: 3
-category: fun
+title: MSc Thesis
+description: MSc thesis project.
+img: assets/img/12.jpg
+importance: 5
+category: work
 ---
 
 Every project has a beautiful feature showcase page.
