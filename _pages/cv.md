@@ -1,6 +1,6 @@
 ---
 layout: cv
-redirect: https://samuelkoovely.github.io/assets/pdf/CV_Samuel_Koovely.pdf
+#redirect: https://samuelkoovely.github.io/assets/pdf/CV_Samuel_Koovely.pdf
 permalink: /cv/
 title: CV
 nav: true
