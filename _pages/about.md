@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
   address: >
-    <p>Building Y27 , Office G25</p>
+    <p>Office Y27/G25</p>
     <p>Winterthurerstrasse 190, 8057 Zurich, Switzerland</p>
 
 news: true  # includes a list of news items
