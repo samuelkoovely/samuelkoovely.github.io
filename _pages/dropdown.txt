@@ -1,4 +1,4 @@
-# File to have dropdown menu. Put in _pages in order to reinstate.
+# File to have dropdown menu. Change format to .md to reinstate.
 
 ---
 layout: page
