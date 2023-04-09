@@ -1,3 +1,5 @@
+# File to have dropdown menu. Put in _pages in order to reinstate.
+
 ---
 layout: page
 title: Submenus
