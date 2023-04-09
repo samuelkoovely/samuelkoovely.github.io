@@ -1,8 +1,8 @@
 ---
 layout: page
-# permalink: /cv/
+permalink: /cv/
 title: CV
-nav: false
-nav_order: 5
+nav: True
+nav_order: 4
 redirect: https://samuelkoovely.github.io/assets/pdf/CV_Samuel_Koovely.pdf
 ---
