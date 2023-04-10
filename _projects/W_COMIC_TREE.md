@@ -2,7 +2,7 @@
 layout: page
 title: COMIC-Tree Model
 description: Ongoing
-img: assets/img/3.jpg
+img: assets/img/projects_sketches/COMIC_Tree.jpeg
 importance: 2
 category: work
 ---

@@ -2,7 +2,7 @@
 layout: page
 title: Community Detection in Temporal Networks
 description: Ongoing
-img: assets/img/7.jpg
+img: assets/img/projects_sketches/CD_in_TN.jpeg
 redirect: https://unsplash.com
 importance: 1
 category: work
