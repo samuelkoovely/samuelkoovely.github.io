@@ -167,8 +167,7 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - vendor
-  - blog
-  - _posts
+
 keep_files:
   - CNAME
   - .nojekyll
@@ -339,3 +338,7 @@ mdb:
 medium_zoom:
   version: "1.0.6"
   integrity: "sha256-EdPgYcPk/IIrw7FYeuJQexva49pVRZNmt3LculEr7zM="
+latest_posts:
+  enabled: true
+  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
+  limit: 3 # leave blank to include all the blog posts
