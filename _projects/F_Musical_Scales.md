@@ -1,8 +1,10 @@
 ---
 layout: page
-title: Musical Scales
-description: Exploring mathematical aspects about musical scales.
+title:
+description: Musical Scales
 img:
 importance: 4
 category: fun
 ---
+
+Exploring mathematical aspects about musical scales.
