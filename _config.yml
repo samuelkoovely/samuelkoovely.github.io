@@ -127,15 +127,15 @@ collections:
   news:
     defaults:
       layout: post
-    output: true
+    output: false
     permalink: /news/:path/
   projects:
-    output: true
+    output: false
     permalink: /projects/:path/
 
 news:
   enabled: false # adds a vertical scroll bar if there are more than 3 news items
-  scrollabel: true
+  scrollable: true
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
