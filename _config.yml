@@ -222,8 +222,8 @@ display_tags: ['conference', 'teaching', 'statistics', 'mathematics', 'code'] # 
 
 scholar:
 
-  last_name: Einstein
-  first_name: [Albert, A.]
+  last_name: Koovely
+  first_name: [Samuel]
 
   style: apa
   locale: en
