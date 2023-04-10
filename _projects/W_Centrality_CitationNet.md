@@ -2,7 +2,7 @@
 layout: page
 title: Centrality Citation Network
 description: Ongoing
-img:
+img: project_sketches/Centrality_CitationNet.jpeg
 importance: 4
 category: work
 ---

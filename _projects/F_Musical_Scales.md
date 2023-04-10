@@ -2,7 +2,7 @@
 layout: page
 title: Musical Scales
 description: Ongoing
-img:
+img: assets/img/projects_sketches/Musical_Scales.jpeg
 importance: 4
 category: fun
 ---
