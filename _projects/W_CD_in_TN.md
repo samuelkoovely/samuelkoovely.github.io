@@ -7,3 +7,5 @@ redirect: https://unsplash.com
 importance: 1
 category: work
 ---
+
+I am studying the flow stability method for community detection in non stationary networks.

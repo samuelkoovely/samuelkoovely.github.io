@@ -7,4 +7,4 @@ importance: 4
 category: fun
 ---
 
-Exploring mathematical aspects about musical scales.
+Exploring various mathematical aspects of music; in particular the properties of various musical temperaments.

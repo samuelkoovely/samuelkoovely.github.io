@@ -7,5 +7,5 @@ importance: 4
 category: work
 ---
 
-Redifine measure of impact of authors.
+I am learning about previously developed metrics of impact of scientific articles and researchers. I am thinking about new possible methods that would better highlight the temporal evolution of scientific relevance.
 

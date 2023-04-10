@@ -7,4 +7,4 @@ importance: 2
 category: work
 ---
 
-Further developments of the COMIC-Tree model introduced preivously in my MSc thesis.
+I am working to further develop the COMIC-Tree model, preivously iintroduced in my MSc thesis.
