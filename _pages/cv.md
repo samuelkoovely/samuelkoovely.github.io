@@ -1,9 +1,8 @@
 ---
-layout: cv
+layout: default
 permalink: /cv/
 title: CV
 nav: true
 nav_order: 4
-cv_pdf: CV_Samuel_Koovely.pdf
-#redirect: https://samuelkoovely.github.io/assets/pdf/CV_Samuel_Koovely.pdf
+redirect_to: /assets/pdf/CV_Samuel_Koovely.pdf
 ---
