@@ -155,6 +155,7 @@ kramdown:
 
 # Includes & excludes
 include: ['_pages']
+  - _news
 exclude:
   - bin
   - Gemfile
@@ -162,7 +163,6 @@ exclude:
   - vendor
   - blog
   - _posts
-  - _news
 keep_files:
   - CNAME
   - .nojekyll
