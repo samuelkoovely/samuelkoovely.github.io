@@ -1,7 +1,7 @@
 ---
 layout: page
 title: MSc Thesis
-description: MSc Thesis Project.
+description: Completed
 img: assets/img/12.jpg
 importance: 5
 category: work

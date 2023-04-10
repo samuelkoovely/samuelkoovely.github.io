@@ -1,9 +1,11 @@
 ---
 layout: page
 title: Centrality Citation Network
-description: Redifine measure of impact of authors. 
+description: Ongoing
 img:
 importance: 4
 category: work
 ---
+
+Redifine measure of impact of authors.
 

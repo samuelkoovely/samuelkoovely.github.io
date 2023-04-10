@@ -1,7 +1,7 @@
 ---
 layout: page
-title:
-description: Musical Scales
+title: Musical Scales
+description: Ongoing
 img:
 importance: 4
 category: fun

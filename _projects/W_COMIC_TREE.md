@@ -1,7 +1,7 @@
 ---
 layout: page
 title: COMIC-Tree Model
-description: Further Developmets of the COMIC-Tree Model
+description: Ongoing
 img: assets/img/3.jpg
 importance: 2
 category: work
