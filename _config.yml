@@ -123,7 +123,7 @@ external_sources:
 # Collections
 # -----------------------------------------------------------------------------
 
-''' collections:
+collections:
   news:
     defaults:
       layout: post
@@ -133,6 +133,7 @@ external_sources:
     output: false
     permalink: /projects/:path/
 
+'''
 news:
   enabled: false # adds a vertical scroll bar if there are more than 3 news items
   scrollable: true
