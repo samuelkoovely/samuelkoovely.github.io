@@ -19,7 +19,7 @@ social: true  # includes social icons at the bottom of the page
 
 I am a doctoral student in the group of <a href="https://alexbovet.github.io/">Prof. Dr. Alexandre Bovet</a>, at the Institute of Mathematics of the University of Zurich (see <a href="https://www.math.uzh.ch/index.php?id=people&key1=33328&L=1">here</a>).
 I am interested in topics at the intersection of probability theory and statistics; in particular Markov processes, graphical models, and causal inference.
-I study how this topics interact with each other and their applications to complex syestems and complex networks.
+I study how these topics interact with each other and their applications to complex systems and complex networks.
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder. -->
 
