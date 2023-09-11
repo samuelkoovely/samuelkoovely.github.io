@@ -2,7 +2,7 @@
 layout: page
 title: Seminar on Markov Models
 description: Future
-img: assets/img/projects_sketches/Seminar_Markov.md
+img: assets/img/projects_sketches/Seminar_Markov.jpeg
 importance: 3
 category: work
 ---
