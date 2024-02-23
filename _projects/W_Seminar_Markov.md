@@ -81,8 +81,8 @@ The plan of the talks goes as follows:
   </tr>
 </table>
 
-| Date | Topic | Speaker | Material |
+| Date || Topic || Speaker | Material |
 | :----------- | :------------: | :------------: | ------------: |
-| 20.02.2024       |    Introduction    |   S. Koovely  |   /   |
-| 05.03.2024       |    Discrete-Time Markov Chains    |       L. J. Bentele   |   /   |
-| 05.03.2024       |    Hidden Markov Models    |       L. Siciliano    |   /   |
+| 20.02.2024       ||    Introduction    ||   S. Koovely  |   /   |
+| 05.03.2024       ||    Discrete-Time Markov Chains    ||       L. J. Bentele   |   /   |
+| 05.03.2024       ||    Hidden Markov Models    ||       L. Siciliano    |   /   |
