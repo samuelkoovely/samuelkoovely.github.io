@@ -1,3 +1,4 @@
+<!--
 ---
 layout: page
 title: Musical Scales
@@ -8,3 +9,4 @@ category: Fun
 ---
 
 Exploring various mathematical aspects of music; in particular the properties of various musical temperaments.
+-->
