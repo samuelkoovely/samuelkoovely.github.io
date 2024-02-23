@@ -81,8 +81,15 @@ The plan of the talks goes as follows:
   </tr>
 </table>
 
-| Date || Topic || Speaker | Material |
-| :----------- | :------------: | :------------: | ------------: |
-| 20.02.2024       ||    Introduction    ||   S. Koovely  |   /   |
-| 05.03.2024       ||    Discrete-Time Markov Chains    ||       L. J. Bentele   |   /   |
-| 05.03.2024       ||    Hidden Markov Models    ||       L. Siciliano    |   /   |
+| Date ||| Topic ||| Speaker ||| Material |
+| :----------- ||| :------------: ||| :------------: ||| ------------: |
+| 20.02.2024       |||    Introduction    |||   S. Koovely  |||   /   |
+| 05.03.2024       |||    Discrete-Time Markov Chains    |||       L. J. Bentele   ||   /   |
+| 12.03.2024       |||    Hidden Markov Models    |||       L. Siciliano    |||   /   |
+| 19.03.2024       |||    Markov Chain Monte Carlo Methods    |||       N. Hai    |||   /   |
+| 26.03.2024       |||    Continuous-Time Markov Chains    |||       A. Makhova    |||   /   |
+| 09.04.2024       |||    Introduction to Graphical Models    |||       M. Jaquier    |||   /   |
+| 16.04.2024       |||    Markov Random Fields    |||       C. Barzasi    |||   /   |
+| 23.04.2024       |||    Bayesian Networks    |||       L. Ramsauer    |||   /   |
+| 30.04.2024       |||    Causality    |||       F. Grifone    |||   /   |
+| 07.05.2024       |||    The Wiener Process    |||       D. Dell'Angelo    |||   /   |
