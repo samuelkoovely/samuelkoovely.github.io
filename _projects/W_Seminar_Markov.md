@@ -14,7 +14,6 @@ The plan of the talks goes as follows: \\
 
 <table>
   <tr>
-    <td>&nbsp;</td>
     <td>Date</td>
     <td>Topic</td>
     <td>Speaker</td>
@@ -27,7 +26,7 @@ The plan of the talks goes as follows: \\
     <td> / </td>
   </tr>
   <tr>
-    <td>05.02.2024</td>
+    <td>05.03.2024</td>
     <td>Discrete-Time Markov Chains</td>
     <td> L. J. Bentele </td>
     <td> / </td>
@@ -44,10 +43,40 @@ The plan of the talks goes as follows: \\
     <td> N. Hai </td>
     <td> / </td>
   </tr>
-    <tr>
+  <tr>
     <td>26.03.2024</td>
     <td> Continuous-Time Markov Chains </td>
     <td> A. Mokhova </td>
+    <td> / </td>
+  </tr>
+  <tr>
+    <td>09.04.2024</td>
+    <td> Introduction to Graphical Models </td>
+    <td> M. Jaquier </td>
+    <td> / </td>
+  </tr>
+  <tr>
+    <td>16.04.2024</td>
+    <td> Markov Random Fields </td>
+    <td> C. Barzasi </td>
+    <td> / </td>
+  </tr>
+  <tr>
+    <td>23.04.2024</td>
+    <td> Bayesian Networks </td>
+    <td> L. Ramsauer </td>
+    <td> / </td>
+  </tr>
+  <tr>
+    <td>30.04.2024</td>
+    <td> Causality </td>
+    <td> F. Grifone </td>
+    <td> / </td>
+  </tr>
+  <tr>
+    <td>07.05.2024</td>
+    <td> The Wiener Process </td>
+    <td> D. Dell'Angelo </td>
     <td> / </td>
   </tr>
 </table>
