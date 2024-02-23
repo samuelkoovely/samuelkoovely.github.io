@@ -4,7 +4,7 @@ title: Seminar on Markov Models
 description: Ongoing
 img: assets/img/projects_sketches/Seminar_Markov.jpeg
 importance: 3
-category: work
+category: Research
 ---
 
 Markov models are a foundational concept in probability theory and offer insights into systems that evolve over time, making them vital in diverse fields like statistics, computer science, biology, and economics. \\

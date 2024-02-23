@@ -4,7 +4,7 @@ title: MSc Thesis
 description: Completed
 img: assets/img/projects_sketches/MSc_Thesis.jpeg
 importance: 5
-category: work
+category: Research
 ---
 
 This thesis is a report of the research I've conducted as an intern at IBM Research Zurich, part of a collaboration between its Systems Biology group and the Seminar for Statistics of ETH Zurich.
