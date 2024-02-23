@@ -8,4 +8,4 @@ importance: 1
 category: Research
 ---
 
-I am studying the flow stability method for community detection in non stationary networks.
+I am studying the (<a href="https://www.science.org/doi/10.1126/sciadv.abj3063"> flow stability method </a>) for community detection in non stationary networks.
