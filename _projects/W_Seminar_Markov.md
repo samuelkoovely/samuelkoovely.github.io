@@ -81,8 +81,8 @@ The plan of the talks goes as follows:
   </tr>
 </table>
 
-| Left aligned | Center aligned | Right aligned |
-| :----------- | :------------: | ------------: |
-| Left 1       |    center 1    |       right 1 |
-| Left 2       |    center 2    |       right 2 |
-| Left 3       |    center 3    |       right 3 |
+| Date | Topic | Speaker | Material |
+| :----------- | :------------: | :------------: | ------------: |
+| 20.02.2024       |    Introduction    |   S. Koovely  |   /   |
+| 05.03.2024       |    Discrete-Time Markov Chains    |       L. J. Bentele   |   /   |
+| 05.03.2024       |    Hidden Markov Models    |       L. Siciliano    |   /   |
