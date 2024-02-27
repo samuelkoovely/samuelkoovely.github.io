@@ -25,7 +25,8 @@ The plan of the talks goes as follows:
 | 30.04.2024       |||    Causality    |||       F. Grifone    |
 | 07.05.2024       |||    The Wiener Process    |||       D. Dell'Angelo    |
 
-You can find it  <a href="https://www.math.uzh.ch/typo3conf/ext/qfq/Classes/Api/download.php?s=65ddf73787e22"> here </a>, together with the references for the material covered during the talks.
+\\
+You can find it as well <a href="https://www.math.uzh.ch/typo3conf/ext/qfq/Classes/Api/download.php?s=65ddf73787e22"> here </a>, together with the references for the material covered during the talks.
 
 Reading Assignments:
-Durret - "Probability: Theory and Examples”: Th. 5.2.1, Th. 5.2.2, and Th 5.2.3
+Durret - Probability: Theory and Examples: Th. 5.2.1, Th. 5.2.2, and Th 5.2.3
