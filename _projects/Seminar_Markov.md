@@ -26,7 +26,8 @@ The plan of the talks goes as follows:
 | 07.05.2024       |||    The Wiener Process    |||       D. Dell'Angelo    |
 
 \\
-You can find it as well <a href="https://www.math.uzh.ch/typo3conf/ext/qfq/Classes/Api/download.php?s=65ddf73787e22"> here </a>, together with the references for the material covered during the talks.
+You can find it as well <a href="https://www.math.uzh.ch/ve-se-det?key2=1644&semId=48"> here </a>, together with the references for the material covered during the talks.
 
 Reading Assignments: \\
-Durret - Probability: Theory and Examples: Th. 5.2.1, Th. 5.2.2, and Th. 5.2.3
+Durret - Probability: Theory and Examples: Th. 5.2.1, Th. 5.2.2, and Th. 5.2.3 \\
+Daniel Jurafsky and James H Martin - Speech and Language Processing: An Introduction to Natural Language Processing, Computational Linguistics, and SpeechRecognition: Appendix A.1 and A.2 \\
