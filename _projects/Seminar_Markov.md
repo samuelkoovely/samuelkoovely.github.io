@@ -18,7 +18,7 @@ The plan of the talks goes as follows:
 | 05.03.2024       |||    Discrete-Time Markov Chains    |||       L. J. Bentele   |
 | 12.03.2024       |||    Hidden Markov Models    |||       L. Siciliano    |
 | 19.03.2024       |||    Markov Chain Monte Carlo Methods    |||       N. Hai    |
-| 26.03.2024       |||    Continuous-Time Markov Chains    |||       A. Makhova    |
+| 26.03.2024       |||    Continuous-Time Markov Chains    |||       A. Mokhova    |
 | 09.04.2024       |||    Introduction to Graphical Models    |||       M. Jaquier    |
 | 16.04.2024       |||    Markov Random Fields    |||       C. Barzasi    |
 | 23.04.2024       |||    Bayesian Networks    |||       L. Ramsauer    |
@@ -30,4 +30,4 @@ You can find it as well <a href="https://www.math.uzh.ch/ve-se-det?key2=1644&sem
 
 Reading Assignments: \\
 Durret - Probability: Theory and Examples: Th. 5.2.1, Th. 5.2.2, and Th. 5.2.3 \\
-Daniel Jurafsky and James H Martin - Speech and Language Processing: An Introduction to Natural Language Processing, Computational Linguistics, and SpeechRecognition: Appendix A.1 and A.2 \\
+Daniel Jurafsky and James H Martin - Speech and Language Processing: An Introduction to Natural Language Processing, Computational Linguistics, and SpeechRecognition: Appendix A.1 and A.2
