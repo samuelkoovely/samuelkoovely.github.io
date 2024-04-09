@@ -19,8 +19,8 @@ The plan of the talks goes as follows:
 | 12.03.2024       |||    Hidden Markov Models    |||       L. Siciliano    |
 | 19.03.2024       |||    Markov Chain Monte Carlo Methods    |||       N. Hai    |
 | 26.03.2024       |||    Continuous-Time Markov Chains    |||       A. Mokhova    |
-| 09.04.2024       |||    Introduction to Graphical Models    |||       M. Jaquier    |
-| 16.04.2024       |||    Markov Random Fields    |||       C. Barzasi    |
+| 09.04.2024       |||    Undirected Graphical Models    |||       M. Jaquier    |
+| 16.04.2024       |||   Chow-Liu Trees    |||       C. Barzasi    |
 | 23.04.2024       |||    Bayesian Networks    |||       L. Ramsauer    |
 | 30.04.2024       |||    Causality    |||       F. Grifone    |
 | 07.05.2024       |||    The Wiener Process    |||       D. Dell'Angelo    |
