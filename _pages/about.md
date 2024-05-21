@@ -12,9 +12,9 @@ profile:
     <p>Office Y27/G25</p>
     <p>Winterthurerstrasse 190, 8057 Zurich, Switzerland</p>
 
-news: true  # includes a list of news items
+news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+social: true # includes social icons at the bottom of the page
 ---
 
 I am a doctoral student in the group of <a href="https://alexbovet.github.io/">Prof. Dr. Alexandre Bovet</a>, at the Institute of Mathematics of the University of Zurich (see <a href="https://www.math.uzh.ch/index.php?id=people&key1=33328&L=1">here</a>).
