@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Seminar on Markov Models
-description: Ongoing
+description: Completed
 img: assets/img/projects_sketches/Seminar_Markov.jpeg
 importance: 3
 category: Research
@@ -17,12 +17,12 @@ The plan of the talks goes as follows:
 | 20.02.2024       |||    Introduction    |||   S. Koovely  |
 | 05.03.2024       |||    Discrete-Time Markov Chains    |||       L. J. Bentele   |
 | 12.03.2024       |||    Hidden Markov Models    |||       L. Siciliano    |
-| 19.03.2024       |||    Markov Chain Monte Carlo Methods    |||       N. Hai    |
+| 19.03.2024       |||    Markov Chain Monte Carlo    |||       N. Hai    |
 | 26.03.2024       |||    Continuous-Time Markov Chains    |||       A. Mokhova    |
 | 09.04.2024       |||    Undirected Graphical Models    |||       M. Jaquier    |
-| 16.04.2024       |||   Chow-Liu Trees    |||       C. Barzasi    |
+| 16.04.2024       |||    Chow-Liu Trees    |||       C. Barzasi    |
 | 23.04.2024       |||    Bayesian Networks    |||       L. Ramsauer    |
-| 30.04.2024       |||    Causality    |||       F. Grifone    |
+| 30.04.2024       |||    Causal Inference    |||       F. Grifone    |
 | 07.05.2024       |||    The Wiener Process    |||       D. Dell'Angelo    |
 
 \\
