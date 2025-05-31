@@ -484,13 +484,6 @@ ninja.data = [{
           window.open("https://orcid.org/0000-0002-5033-7790", "_blank");
         },
       },{
-        id: 'social-scholar',
-        title: 'Google Scholar',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://scholar.google.com/citations?user=qc6CJjYAAAAJ", "_blank");
-        },
-      },{
         id: 'social-x',
         title: 'X',
         section: 'Socials',
