@@ -42,15 +42,7 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather.txt";
-            },},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2.txt";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
-          description: "",
-          section: "News",},{id: "projects-community-detection-in-temporal-networks",
+            },},{id: "projects-community-detection-in-temporal-networks",
           title: 'Community Detection in Temporal Networks',
           description: "Ongoing",
           section: "Projects",handler: () => {
