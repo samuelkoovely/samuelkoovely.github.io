@@ -2,7 +2,7 @@
 layout: page
 title: Seminar on Machine Learning
 description: Completed
-img: #assets/img/projects_sketches/Seminar_Markov.jpeg
+img: assets/img/projects_sketches/AUC.jpeg
 importance: 2
 category: Others
 ---
