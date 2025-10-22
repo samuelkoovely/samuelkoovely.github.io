@@ -2,7 +2,7 @@
 layout: page
 title: MSc Thesis
 description: Completed
-img: assets/img/projects_sketches/MSc_Thesis.jpeg
+img: assets/img/projects_sketches/COMIC_Tree.jpeg
 importance: 5
 category: Research
 ---
