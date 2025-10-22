@@ -16,5 +16,3 @@ nav_order: 6
 * Fall Semester 2019: Teaching Assistant of the course "Mathematik IV, ETH Zurich" (german)
 * Fall Semester 2018: Teaching Assistant of the course "Stochastic, ETH Zurich" (german)
 * Spring Semester 2018: Teaching Assistant of the course "Probability and Statstics", ETH Zurich (english)
-
-### Theses Supervision:
