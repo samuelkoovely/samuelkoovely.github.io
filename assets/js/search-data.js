@@ -52,6 +52,11 @@ ninja.data = [{
           description: "Ongoing",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Conditional_Entropy.html";
+            },},{id: "projects-edede-model",
+          title: 'EDEDE Model',
+          description: "Ongoing",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/EDEDE_Model.html";
             },},{id: "projects-msc-thesis",
           title: 'MSc Thesis',
           description: "Completed",
