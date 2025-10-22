@@ -42,16 +42,16 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather.txt";
-            },},{id: "projects-community-detection-in-temporal-networks",
-          title: 'Community Detection in Temporal Networks',
+            },},{id: "projects-change-point-detection-in-temporal-networks",
+          title: 'Change Point Detection in Temporal Networks',
           description: "Ongoing",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/CD_in_TN.html";
-            },},{id: "projects-comic-tree-model",
-          title: 'COMIC-Tree Model',
+              window.location.href = "/projects/ChangePoint.html";
+            },},{id: "projects-conditional-entropy-on-graphs",
+          title: 'Conditional Entropy on Graphs',
           description: "Ongoing",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/COMIC_Tree.html";
+              window.location.href = "/projects/Conditional_Entropy.html";
             },},{id: "projects-msc-thesis",
           title: 'MSc Thesis',
           description: "Completed",
