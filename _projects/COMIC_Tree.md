@@ -1,3 +1,4 @@
+<!--
 ---
 layout: page
 title: COMIC-Tree Model
@@ -8,3 +9,4 @@ category: Research
 ---
 
 I am working to further develop the COMIC-Tree model, preivously iintroduced in my MSc thesis.
+-->
