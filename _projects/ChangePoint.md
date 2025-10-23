@@ -9,6 +9,6 @@ category: Research
 
 I am developing a method for detecting change points of temporal networks, i.e. time series of graphs. on graphs through the lense of information theory.
 The technique I am studying consists of a physics-inspired method based on the combination of the theory of diffusion on graphs and information theory. Most of the theoretical results that justify this approach are explained in this article
-<a href="https://www.science.org/doi/10.1126/sciadv.abj3063">.
+<a href="https://arxiv.org/pdf/2510.19441">.
 I presented preliminary results of this work at the 2025 workshop on temporal networks held in Oxford, and at NetSci 2025 in Maastricht.
 I am currently working on the manuscript of the article describing this work.
