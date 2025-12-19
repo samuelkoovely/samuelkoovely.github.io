@@ -52,8 +52,8 @@ ninja.data = [{
           description: "Ongoing",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Conditional_Entropy.html";
-            },},{id: "projects-edede-model",
-          title: 'EDEDE Model',
+            },},{id: "projects-ascona-model",
+          title: 'Ascona Model',
           description: "Ongoing",
           section: "Projects",handler: () => {
               window.location.href = "/projects/EDEDE_Model.html";
