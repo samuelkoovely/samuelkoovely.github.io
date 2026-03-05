@@ -56,7 +56,7 @@ ninja.data = [{
           title: 'Ascona Model',
           description: "Ongoing",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/EDEDE_Model.html";
+              window.location.href = "/projects/EDLDE_Model.html";
             },},{id: "projects-msc-thesis",
           title: 'MSc Thesis',
           description: "Completed",
