@@ -9,6 +9,6 @@ category: Research
 
 I am studying diffusion dynamics on graphs through the lense of information theory.
 The discrete version of the heat kernel can be seen as a continous-time Markov Chain, and by choosing an appropriate measure of information, one can establish a mathematical formalism that replicates phenomena like the first and second laws of thermodynamics in a complex system modeles as a graph.
-In particular, I am focused on studying the evolution of the conditional entropy of such diffusion dynamics. 
+In particular, I am focused on studying the evolution of the conditional entropy of such diffusion dynamics.
 Most of the results on this topic can be read in this
 <a href="https://arxiv.org/pdf/2510.19441">article</a>.
