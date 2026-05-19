@@ -94,6 +94,21 @@ div.container-pdf {
   justify-content: flex-start;
 }
 
+div.cv-pdf-embed {
+  margin-bottom: 1.5rem;
+  border: 1px solid var(--global-divider-color);
+  border-radius: 0.5rem;
+  overflow: hidden;
+  background-color: var(--global-bg-color);
+}
+
+iframe.cv-pdf-frame {
+  display: block;
+  width: 100%;
+  height: var(--cv-pdf-height, 1100px);
+  border: 0;
+}
+
 /*****************************
  * CV LIST_GROUPS styles
  *****************************/

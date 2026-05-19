@@ -5,7 +5,9 @@ title: CV
 nav: true
 nav_order: 5
 cv_pdf: CV_Samuel_Koovely.pdf # you can also use external links here
-description: Click on the top pdf button to download the full cv.
+cv_embed_pdf: true
+cv_pdf_height: 1200
+description: View the CV inline below, or use the PDF button to open it in a new tab.
 toc:
   sidebar: left
 ---
